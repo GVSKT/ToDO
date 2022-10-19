@@ -1,3 +1,5 @@
+# A New Line is Added
+
 str_a=[
     ('Ament, Maura', '210910', '7/21/2022', 'Visit PT-OT', '710'),('Arcilla, Maria Eulalia M', '255598', '7/21/2022', 'PTO', '710'),
     ('Tattersall, Kimberly', '210949', '7/21/2022', 'PTO', '710'),('Ort, Karen', '210823', 'MO', '07:55 AM', '', '07/22/2022', '07/21/2022', '07-22-2022 09:38 AM', '07-22-2022 09:39 AM', 25, '710'),
